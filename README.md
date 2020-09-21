@@ -8,7 +8,7 @@
 - 💬 Ask me about something about Machine Learning or Analog/Digital Circuit or even something about biology.
 - 📫 How to reach me: s2001696@ed.ac.uk
 
-![](https://komarev.com/ghpvc/?username=JIAQING-XIE&color=green)
+![](https://komarev.com/ghpvc/?username=JIAQING-XIE&color=ff69b4)
 
 <!--
 **JIAQING-XIE/JIAQING-XIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
