@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jiaqing Xie</h1>
+
+<h3 align="center">A Programmer Who Loves GNN and Computational Biology</h3>
+
+
+
 
 <!--
 **JIAQING-XIE/JIAQING-XIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
