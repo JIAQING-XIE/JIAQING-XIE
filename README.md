@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiaqing Xie</h1>
 
-<h3 align="center">A Programmer Who Loves ML and Computational Biology</h3>
+<h3 align="center">A Programmer Who is keen on Graph Representation Learning</h3>
 
 
 - 🔭 I’m currently studying at the University of Edinburgh, a junior student. ...
