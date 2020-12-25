@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning theorys on graph and doing researches on Graph Neural Networks.
 - 💬 Ask me about something about Machine Learning or Analog/Digital Circuit or even something about biology.
 - 📫 How to reach me: s2001696@ed.ac.uk
-- 👯 I’m looking to collaborate on GNN projects and FullStack Project.
+- 👯 I’m looking to collaborate on GNN projects and NLP Projects.
 ![](https://komarev.com/ghpvc/?username=JIAQING-XIE&color=ff69b4)
 
 <!--
