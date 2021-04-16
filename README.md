@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on GNN projects and NLP Projects.
 ![](https://komarev.com/ghpvc/?username=JIAQING-XIE&color=ff69b4)
 
-
-(https://github-readme-stats.vercel.app/api?username=zechengz&show_icons=true&theme=merko)
+![Jiaqing's Github Status](https://github-readme-stats.vercel.app/api?username=JIAQING-XIE&show_icons=true&theme=radical)
 
 <!--
 **JIAQING-XIE/JIAQING-XIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
